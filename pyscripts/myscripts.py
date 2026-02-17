@@ -7,7 +7,7 @@ Basic Python script scaffold.
 def main():
     """Main entry point of the script."""
     print("Hello, World!")
-    print("welcome to DEVASC")
+    print("welcome to DevAsc")
 
 
 if __name__ == "__main__":
